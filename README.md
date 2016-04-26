@@ -10,9 +10,11 @@ This can be installed from the [AUR](https://aur.archlinux.org/packages/systemd-
 
 You can also do a manual install by cloning this repo:
 
-  git clone https://github.com/0x414A/systemd-vgaswitcheroo-units.git
-  cd systemd-vgaswitcheroo-units
-  sudo make install
+```
+git clone https://github.com/0x414A/systemd-vgaswitcheroo-units.git
+cd systemd-vgaswitcheroo-units
+sudo make install
+```
 
 === Credits ===
 
