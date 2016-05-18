@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 i=1
 while [ ! -e /sys/kernel/debug/vgaswitcheroo/switch ]

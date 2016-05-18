@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 ################################################################
 ## This has to be done because a shutdown will otherwise fail ##
